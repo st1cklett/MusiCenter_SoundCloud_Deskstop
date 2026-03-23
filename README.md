@@ -118,5 +118,5 @@ MIT
 ---
 
 <p align="center">
-  <sub>Сделано с любовью к музыке 🎵</sub>
+  <sub>Сделано на основе <a href="https://github.com/zxcloli666/SoundCloud-Desktop">SoundCloud-Desktop</a></sub>
 </p>
