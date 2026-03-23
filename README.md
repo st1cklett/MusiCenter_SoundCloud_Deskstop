@@ -2,7 +2,7 @@
   <img src="web/assets/icon.ico" width="80" />
 </p>
 
-<h1 align="center">MusiCenter</h1>
+<h1 align="center">MusiCenter SOUNDCLOUD</h1>
 
 <p align="center">
   <b>Десктопный музыкальный плеер для SoundCloud с умной рекомендательной системой</b>
