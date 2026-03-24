@@ -1,0 +1,9 @@
+flask>=2.3.0
+requests>=2.31.0
+pywebview>=4.4.1
+pythonnet>=3.0.3
+clr-loader>=0.2.6
+pyinstaller>=6.17.0
+pystray>=0.19.5
+Pillow>=10.0.0
+yandex-music>=2.2.0
