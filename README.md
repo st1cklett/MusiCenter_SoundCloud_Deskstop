@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="web/assets/icon.ico" width="80" />
-</p>
+  <img src="icon.png" width="120" />
+</p>>
 
 <h1 align="center">MusiCenter SOUNDCLOUD</h1>
 
